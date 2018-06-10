@@ -1,0 +1,1 @@
+<div class="bg-primary"><strong><h4 align="center">INFORMACIÓN DE SALIDA</h4></strong></div>
